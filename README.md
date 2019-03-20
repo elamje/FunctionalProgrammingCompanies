@@ -19,6 +19,7 @@ Each lang list ordered by how well known the company is, measured by Market Cap 
 - WhatsApp
 ### Elixir
 - Pinterest
+- Hello Sign
 ### OCaml
 - Jane Street
 ### Scheme

@@ -1,5 +1,5 @@
 # Companies running on Functional Programming Paradigm
-This is a list of companies that use a Functional Programming Language for their core products.  
+This is a list of companies that use a Functional Programming Language for their core product(s) or services.  
 
 Qualifiers (albeit somewhat subjective):  
 - Core product, or major services run on Functional Programming Paradigm   

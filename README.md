@@ -1,4 +1,4 @@
-# Companies running on Functional Programming Paradigm
+# Companies running on Functional Programming Paradigm - Where to begin your search for FP jobs
 This is a list of companies that use a Functional Programming Language for their core product(s) or services.  
 
 #### Qualifiers (albeit somewhat subjective):  
@@ -11,6 +11,8 @@ This is a list of companies that use a Functional Programming Language for their
 - Turn list items into hyperlinked items to the companies career page
 - Pull Request a new company or language to be added
 - Make an issue for a new company or language to be added
+- Make an issue if you think a particular company should be moved up or down its respective language list
+
 ## By Lang
 Each lang list ordered by how well known the company is, measured by Market Cap (public), User Count (if it exists). If neither measure is available, start an Issue for the company and allow others to vote on where it should fall on the list.
 

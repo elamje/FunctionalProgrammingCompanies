@@ -20,6 +20,7 @@ This is a list of companies that use a Functional Programming Language for their
 ### Clojure(Script)
 - Datomic
 - Amperity
+- Zimpler
 ### Scala (Functional Paradigm)
 - Twitter
 - Foursquare

@@ -24,7 +24,7 @@ This is a list of companies that use a Functional Programming Language for their
 ### Scala (Functional Paradigm)
 - Twitter
 - Foursquare
-### Erlang (debate in Issues, currently)
+### Erlang 
 - WhatsApp
 ### Elixir
 - Pinterest

@@ -17,7 +17,7 @@ This is a list of companies that use a Functional Programming Language for their
 - Each lang list ordered by how well known the company is, measured by Market Cap (public), User Count (if it exists). If neither measure is available, start an Issue for the company and allow others to vote on where it should fall on the list.  
 - The simple definition to qualify as Functional for this list is first class function and core lang minimizes side effects. If this bothers you, feel free to explain yourself in an issue:)  
 
-### Clojure(Script)[(jobs)](https://clojuredocs.org/jobs) 
+### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
 - Datomic
 - Amperity
 - Zimpler
@@ -25,7 +25,7 @@ This is a list of companies that use a Functional Programming Language for their
 ### Scala (Functional Paradigm)
 - Twitter
 - Foursquare
-### Erlang[(jobs)](https://angel.co/erlang/jobs) 
+### Erlang [(jobs)](https://angel.co/erlang/jobs) 
 - WhatsApp
 ### Elixir
 - Pinterest

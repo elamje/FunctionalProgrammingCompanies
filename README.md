@@ -18,6 +18,7 @@ This is a list of companies that use a Functional Programming Language for their
 - The simple definition to qualify as Functional for this list is first class function and core lang minimizes side effects. If this bothers you, feel free to explain yourself in an issue:)  
 
 ### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
+- Nubank
 - Datomic
 - Amperity
 - Zimpler

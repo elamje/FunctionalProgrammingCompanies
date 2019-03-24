@@ -32,6 +32,9 @@ This is a list of companies that use a Functional Programming Language for their
 ### Elixir
 - Pinterest
 - Hello Sign
+- Brex.com
+- Salesloft.com
+
 ### OCaml
 - Jane Street
 ### Scheme

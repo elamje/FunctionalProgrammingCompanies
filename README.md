@@ -19,6 +19,7 @@ This is a list of companies that use a Functional Programming Language for their
 
 ### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
 - Nubank
+- CircleCI
 - Datomic
 - Amperity
 - Zimpler

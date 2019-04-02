@@ -22,6 +22,7 @@ This is a list of companies that use a Functional Programming Language for their
 - CircleCI
 - Datomic
 - Amperity
+- Uplift
 - Zimpler
 - Walmart Labs (Small team, large scale)
 ### Scala (Functional Paradigm)

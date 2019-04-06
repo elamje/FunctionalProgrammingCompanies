@@ -52,7 +52,8 @@ This is a list of companies that use a Functional Programming Language for their
 
 ### F#
 - Jet.com
-### Javascript (Functional Paradigm)
+
+### Rust (Functional Paradigm)
 
 ### Misc. LISPs
 - Arc: news.ycombinator.com

@@ -18,13 +18,14 @@ This is a list of companies that use a Functional Programming Language for their
 - The simple definition to qualify as Functional for this list is first class function and core lang minimizes side effects. If this bothers you, feel free to explain yourself in an issue:)  
 
 ### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
-- Nubank
-- CircleCI
-- Datomic
-- Amperity
-- Uplift
-- Zimpler
-- Walmart Labs (Small team, large scale)
+- Nubank [(jobs)](https://nubank.workable.com)
+- CircleCI [(jobs)](https://boards.greenhouse.io/circleci)
+- AppsFlyer [(jobs)](https://www.appsflyer.com/jobs/)
+- Datomic [(jobs)](https://cognitect.com/about.html#careers)
+- Amperity [(jobs)](https://amperity.com/careers/#open-positions)
+- Uplift [(jobs)](https://www.uplift.com/careers)
+- Zimpler [(jobs)](https://careers.zimpler.com)
+- Walmart Labs [(jobs)](https://careers.walmart.com/results?q=&page=1&sort=rank&jobBrand=0000015f-923b-d8cb-a17f-9afff80c0000&expand=department,brand,type,rate&jobCareerArea=all) (Small team, large scale) 
 ### Scala (Functional Paradigm)
 - Twitter
 - Foursquare

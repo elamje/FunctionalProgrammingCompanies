@@ -19,6 +19,7 @@ This is a list of companies that use a Functional Programming Language for their
 
 ### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
 - Nubank [(jobs)](https://nubank.workable.com)
+- FundingCircle [(jobs)](https://www.fundingcircle.com/us/about/careers/?p=job%2FoISe9fwH)
 - CircleCI [(jobs)](https://boards.greenhouse.io/circleci)
 - AppsFlyer [(jobs)](https://www.appsflyer.com/jobs/)
 - Datomic [(jobs)](https://cognitect.com/about.html#careers)

@@ -34,7 +34,7 @@ This is a list of companies that use a Functional Programming Language for their
 - Zimpler [(jobs)](https://careers.zimpler.com)
 - Walmart Labs [(jobs)](https://careers.walmart.com/results?q=&page=1&sort=rank&jobBrand=0000015f-923b-d8cb-a17f-9afff80c0000&expand=department,brand,type,rate&jobCareerArea=all) (Small team, large scale) 
 ### Scala (Functional Paradigm)
-- Twitter
+- Twitter [(jobs)](https://careers.twitter.com/content/careers-twitter/en/jobs-search.html?q=&team=careers-twitter%3Ateam%2Fsoftware-engineering&location=)
 - Foursquare
 - Nubank
 - Coursera

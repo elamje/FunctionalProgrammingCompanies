@@ -13,6 +13,9 @@ This is a list of companies that use a Functional Programming Language for their
 - Make an issue for a new company or language to be added
 - Make an issue if you think a particular company should be moved up or down its respective language list
 
+#### Startups.md
+- If you believe the company is a startup rather than a developed company, please add there. When that list is developed, it will be broken out into its own repo.
+
 ## By Lang
 - Each lang list ordered by how well known the company is, measured by Market Cap (public), User Count (if it exists). If neither measure is available, start an Issue for the company and allow others to vote on where it should fall on the list.  
 - The simple definition to qualify as Functional for this list is first class function and core lang minimizes side effects. If this bothers you, feel free to explain yourself in an issue:)  

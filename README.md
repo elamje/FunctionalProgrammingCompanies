@@ -2,7 +2,7 @@
 This is a list of companies that use a Functional Programming Language for their core product(s) or services.  
 
 [List by Language](#by-lang)   
-[Recruitment tools](#recruitment-tools)   
+[Recruitment tools](#recruitment-tools-and-platforms)   
 
 #### Qualifiers (albeit somewhat subjective):  
 - Core product, or major services run on Functional Programming Paradigm   
@@ -66,5 +66,5 @@ This is a list of companies that use a Functional Programming Language for their
 ### Misc. LISPs
 - Arc: news.ycombinator.com
 
-## Recruitment tools and Platforms
+## Recruitment Tools and Platforms
 - Functional Works [(jobs)](https://functional.works-hub.com)

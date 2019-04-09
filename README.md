@@ -67,4 +67,4 @@ This is a list of companies that use a Functional Programming Language for their
 - Arc: news.ycombinator.com
 
 ## Recruitment Tools and Platforms
-- [(Functional Works)](https://functional.works-hub.com) (Also listed in Startups.md as platform is written in Clojure(Script))
+- [(Functional Works)](https://functional.works-hub.com) *Also listed in Startups.md as platform is written in Clojure(Script)*

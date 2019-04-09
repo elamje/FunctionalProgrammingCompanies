@@ -6,8 +6,10 @@
 
 ### Clojure(Script) [(jobs)](https://clojuredocs.org/jobs) 
 - Griffin Bank [(jobs)](https://griffin.sh/jobs)
-- Red Planet Labs [(jobs)](https://redplanetlabs.com/)
 - Metabase [(jobs)](https://www.metabase.com/jobs/)
+- Red Planet Labs [(jobs)](https://redplanetlabs.com/)
+- WorksHub / Functional Works [(jobs)](https://hire.withgoogle.com/public/jobs/functionalworkscom)
+
 
 ### Scala (Functional Paradigm)
 

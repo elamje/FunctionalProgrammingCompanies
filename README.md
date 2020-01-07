@@ -55,11 +55,15 @@ This is a list of companies that use a Functional Programming Language for their
 ### Common LISP
 
 ### Haskell
+See [erkmos/haskell-companies](https://github.com/erkmos/haskell-companies)
+
+### PureScript
+See [ajnsit/purescript-companies](https://github.com/ajnsit/purescript-companies)
 
 ### ML
 
 ### F#
-- Jet.com
+See [Kavignon/fsharp-companies](https://github.com/Kavignon/fsharp-companies)
 
 ### Rust (Functional Paradigm)
 

@@ -33,6 +33,7 @@ This is a list of companies that use a Functional Programming Language for their
 - Uplift [(jobs)](https://www.uplift.com/careers)
 - Zimpler [(jobs)](https://careers.zimpler.com)
 - Walmart Labs [(jobs)](https://careers.walmart.com/results?q=&page=1&sort=rank&jobBrand=0000015f-923b-d8cb-a17f-9afff80c0000&expand=department,brand,type,rate&jobCareerArea=all) (Small team, large scale) 
+- Klarna [(jobs)](https://jobs.lever.co/klarna/31d34971-68a4-461d-8e9b-d69ffd7148d9)
 ### Scala (Functional Paradigm)
 - Twitter [(jobs)](https://careers.twitter.com/content/careers-twitter/en/jobs-search.html?q=&team=careers-twitter%3Ateam%2Fsoftware-engineering&location=)
 - Foursquare
